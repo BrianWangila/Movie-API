@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Run "bundle install" for starters
+Run "rails db:migrate db:seed"
